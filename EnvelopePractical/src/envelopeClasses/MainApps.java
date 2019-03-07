@@ -14,7 +14,7 @@ public class MainApps {
 		Envelope e = new Envelope(testBars);
 		System.out.println(e);
 		
-		System.out.println("HEY");
+		System.out.println("HEY BEN");
 		
 	}
 
