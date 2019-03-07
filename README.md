@@ -37,6 +37,7 @@ Class Bar
 
 
 Class Point
+	
 	Attributes:
 		-x
 		-h
