@@ -36,7 +36,7 @@ Class Bar
 		+setH(H)
 
 
-	Class Point
+Class Point
 	Attributes:
 		-x
 		-h
