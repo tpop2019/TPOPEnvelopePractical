@@ -43,7 +43,7 @@ public class Bar {
 	
 	public String toString()
 	{
-		String output = ("Right: " + rX + ", Left: " + lX + ", Height: " + h);
+		String output = ("Poo: " + rX + ", Left: " + lX + ", Height: " + h);
 		return output;
 	}
 }
